@@ -14,5 +14,6 @@
     "showPostSource":1,
     "rssSplit":"sentence",
     "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
-    "needComment":1
+    "needComment":1,
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
 }
