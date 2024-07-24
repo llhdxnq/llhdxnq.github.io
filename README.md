@@ -1,6 +1,6 @@
-# Blog Title :link: https://llhdxnq.github.io 
-### :page_facing_up: [1](https://llhdxnq.github.io/tag.html) 
+# Paper fire博客 :link: http://blog.paper-fire.us.kg 
+### :page_facing_up: [1](http://blog.paper-fire.us.kg/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 16 
-### :alarm_clock: 2024-07-24 23:07:09 
+### :alarm_clock: 2024-07-24 23:26:47 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
