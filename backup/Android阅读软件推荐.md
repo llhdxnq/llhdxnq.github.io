@@ -19,8 +19,10 @@
 > 8.  支持多种翻页模式，覆盖、仿真、滑动、滚动等。
 
 > 9.  软件开源，持续优化，无广告。
+![IMG_1267](https://github.com/user-attachments/assets/cb9c0f79-e1bb-4ea4-970e-be76648f7d7d)
 
 
 ### _**[静读天下付费版](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&pcampaignid=web_share)       [静读天下免费版](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&pcampaignid=web_share)**_
 
 > 一体化电子书文档管理和设计精良的图书阅读器，控件强大，功能齐全，支持`` EPUB、PDF、DJVU、AZW3、MOBI、FB2、PRC、CHM、CBZ、CBR、UMD、DOCX、ODT、RTF、TXT 、HTML、MHT/MHTML、MD(MarkDown)、WEBP、RAR、ZIP 或 OPDS 格式。
+
