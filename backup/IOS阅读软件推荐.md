@@ -11,6 +11,7 @@
 
 > PS：完成推广任务，免费获得永久会员
 > 邀请码：8GATGS（注册完成，填写邀请码获得7天会员体验）
+![IMG_1257(20240726-035720)](https://github.com/user-attachments/assets/b6a3a5ae-c6ec-403f-bdd6-c5b1a9d365f1)
 
 
 ### _**[读不舍手](https://apps.apple.com/cn/app/id1662413517)**_
@@ -20,13 +21,17 @@
 > 特色功能：支持开源阅读书源，微软TTS，净化规则，iCloud备份
 
 > 推荐使用TF版可白嫖去广告会员
+![IMG_1232](https://github.com/user-attachments/assets/3d97260e-1c57-45e4-8247-3696430d4741)
 
 
 ### _**[文多多](https://apps.apple.com/app/id6476385796)**_
 
 > 免费，有广告（付费可去除广告）
+![IMG_1240](https://github.com/user-attachments/assets/40a12cc0-850c-4400-baa9-161ac03ade59)
 
 
 ### _**[千阅](https://apps.apple.com/app/id1665963317)**_
 
 > 免费，有广告（付费可去除广告）
+![IMG_1236](https://github.com/user-attachments/assets/ca584499-9034-48af-b652-153d0251b595)
+
